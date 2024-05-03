@@ -1,0 +1,106 @@
+<mxfile host="Electron" modified="2024-05-03T16:18:00.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="7RNgHccLgSIpnVJQMxRU" version="22.1.2" type="device">
+  <diagram name="Page-1" id="mnQ9rOOAReL-SnypJItc">
+    <mxGraphModel dx="1200" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lg171_uvQ0Ld3AbAMN-b-1" target="Lg171_uvQ0Ld3AbAMN-b-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="220" />
+              <mxPoint x="205" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.258;entryY=0.931;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lg171_uvQ0Ld3AbAMN-b-1" target="Lg171_uvQ0Ld3AbAMN-b-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-1" value="Phân xưởng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.427;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lg171_uvQ0Ld3AbAMN-b-2" target="Lg171_uvQ0Ld3AbAMN-b-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-2" value="Người quản &lt;br&gt;lý đơn hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lg171_uvQ0Ld3AbAMN-b-3" target="Lg171_uvQ0Ld3AbAMN-b-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="30" />
+              <mxPoint x="450" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-3" value="NCC" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-4" value="Nhà vận &lt;br&gt;chuyển" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-5" value="Hệ thống cung&lt;br&gt;ứng vật tư" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lg171_uvQ0Ld3AbAMN-b-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-6" value="Bộ phận&amp;nbsp;&lt;br&gt;thanh toán" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="170" width="650" height="460" as="geometry">
+            <mxRectangle x="170" y="10" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-12" value="Chốt NCC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg171_uvQ0Ld3AbAMN-b-8">
+          <mxGeometry x="90" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-13" value="Làm đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg171_uvQ0Ld3AbAMN-b-8">
+          <mxGeometry x="420" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Lg171_uvQ0Ld3AbAMN-b-8" source="Lg171_uvQ0Ld3AbAMN-b-14" target="Lg171_uvQ0Ld3AbAMN-b-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-14" value="Ghi nhận thanh toán" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg171_uvQ0Ld3AbAMN-b-8">
+          <mxGeometry x="420" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-34" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Lg171_uvQ0Ld3AbAMN-b-8" source="Lg171_uvQ0Ld3AbAMN-b-15" target="Lg171_uvQ0Ld3AbAMN-b-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-15" value="In danh sách đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg171_uvQ0Ld3AbAMN-b-8">
+          <mxGeometry x="90" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lg171_uvQ0Ld3AbAMN-b-8" target="Lg171_uvQ0Ld3AbAMN-b-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="190" as="sourcePoint" />
+            <mxPoint x="220" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="190" />
+              <mxPoint x="240" y="103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Lg171_uvQ0Ld3AbAMN-b-8" target="Lg171_uvQ0Ld3AbAMN-b-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="50.039999999999964" as="sourcePoint" />
+            <mxPoint x="430" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="50" />
+              <mxPoint x="260" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-31" value="Thanh toán" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg171_uvQ0Ld3AbAMN-b-8">
+          <mxGeometry x="420" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg171_uvQ0Ld3AbAMN-b-33" value="Đối chiếu đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg171_uvQ0Ld3AbAMN-b-8">
+          <mxGeometry x="90" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
